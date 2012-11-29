@@ -1,0 +1,4 @@
+/etc/make.conf
+/etc/#make.conf#
+/etc/portage/package.use
+/etc/portage/#package.use#
